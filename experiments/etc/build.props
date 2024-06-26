@@ -1,0 +1,9 @@
+title = Experiment Tools
+module = $EXPERIMENTS_JAR
+requirements = \
+  env:ISABELLE_SCALA_JAR \
+  env:CPLEX_JAR
+sources = \
+  build_analysis.scala
+  
+services = isabelle.Experiment_Tools

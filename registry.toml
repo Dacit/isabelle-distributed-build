@@ -1,0 +1,306 @@
+[host."of1.proof.cit.tum.de"]
+hostname = "of1.proof.cit.tum.de"
+jobs = 2
+
+[host."of2.proof.cit.tum.de"]
+hostname = "of2.proof.cit.tum.de"
+jobs = 4
+
+[host."of3.proof.cit.tum.de"]
+hostname = "of3.proof.cit.tum.de"
+jobs = 4
+
+[host."of4.proof.cit.tum.de"]
+hostname = "of4.proof.cit.tum.de"
+jobs = 4
+
+[host."10.195.8.30"]
+hostname = "10.195.8.30"
+jobs = 5
+
+[host."10.195.8.46"]
+hostname = "10.195.8.46"
+jobs = 5
+
+[host."10.195.8.32"]
+hostname = "10.195.8.32"
+jobs = 5
+
+[host."10.195.8.40"]
+hostname = "10.195.8.40"
+jobs = 5
+
+[host."10.195.6.179"]
+hostname = "10.195.6.179"
+jobs = 5
+
+[host."10.195.7.194"]
+hostname = "10.195.7.194"
+jobs = 5
+
+[host."10.195.8.42"]
+hostname = "10.195.8.42"
+jobs = 5
+
+[host."10.195.8.49"]
+hostname = "10.195.8.49"
+jobs = 5
+
+[host."10.195.8.29"]
+hostname = "10.195.8.29"
+jobs = 5
+
+[host."10.195.8.11"]
+hostname = "10.195.8.11"
+jobs = 5
+
+[host.of1]
+hostname = "of1.proof.cit.tum.de"
+jobs = 3
+threads = 12
+
+[host.of2]
+hostname = "of2.proof.cit.tum.de"
+jobs = 4
+threads = 16
+
+[host.of3]
+hostname = "of3.proof.cit.tum.de"
+jobs = 4
+threads = 16
+
+[host.of4]
+hostname = "of4.proof.cit.tum.de"
+jobs = 4
+threads = 16
+
+[host.lrz01]
+hostname = "10.195.8.30"
+jobs = 3
+threads = 8
+
+[host.lrz02]
+hostname = "10.195.8.46"
+jobs = 3
+threads = 8
+
+[host.lrz03]
+hostname = "10.195.8.32"
+jobs = 3
+threads = 8
+
+[host.lrz04]
+hostname = "10.195.8.40"
+jobs = 3
+threads = 8
+
+[host.lrz05]
+hostname = "10.195.6.179"
+jobs = 3
+threads = 8
+
+[host.lrz06]
+hostname = "10.195.7.194"
+jobs = 3
+threads = 8
+
+[host.lrz07]
+hostname = "10.195.8.42"
+jobs = 3
+threads = 8
+
+[host.lrz08]
+hostname = "10.195.8.49"
+jobs = 3
+threads = 8
+
+[host.lrz09]
+hostname = "10.195.8.29"
+jobs = 3
+threads = 8
+
+[host.lrz10]
+hostname = "10.195.8.11"
+jobs = 3
+threads = 8
+
+[cluster.ls21old]
+hosts = [
+  "of1.proof.cit.tum.de",
+  "of2.proof.cit.tum.de",
+  "of3.proof.cit.tum.de",
+  "of4.proof.cit.tum.de",
+  "10.195.8.30",
+  "10.195.8.46",
+  "10.195.8.32",
+  "10.195.8.40",
+  "10.195.6.179",
+  "10.195.7.194",
+  "10.195.8.42",
+  "10.195.8.49",
+  "10.195.8.29",
+  "10.195.8.11",
+]
+
+[cluster.ls21small]
+hosts = [
+  "of1",
+  "of2",
+  "of3",
+  "of4",
+]
+
+[cluster.ls21]
+hosts = [
+  "of1",
+  "of2",
+  "of3",
+  "of4",
+  "lrz01",
+  "lrz02",
+  "lrz03",
+  "lrz04",
+  "lrz05",
+  "lrz06",
+  "lrz07",
+  "lrz08",
+  "lrz09",
+  "lrz10",
+]
+
+[host.of1-proof]
+hostname = "of1.proof.cit.tum.de"
+jobs = 3
+threads = 12
+home = "/home/cluster"
+
+[host.of2-proof]
+hostname = "of2.proof.cit.tum.de"
+jobs = 4
+threads = 16
+home = "/home/cluster"
+
+[host.of3-proof]
+hostname = "of3.proof.cit.tum.de"
+jobs = 4
+threads = 16
+home = "/home/cluster"
+
+[host.of4-proof]
+hostname = "of4.proof.cit.tum.de"
+jobs = 4
+threads = 16
+home = "/home/cluster"
+
+[host.se1]
+hostname = "se1.proof.cit.tum.de"
+jobs = 8
+threads = 16
+home = "/home/cluster"
+
+[host.se2]
+hostname = "se2.proof.cit.tum.de"
+jobs = 8
+threads = 16
+home = "/home/cluster"
+
+[host.se3]
+hostname = "se3.proof.cit.tum.de"
+jobs = 8
+threads = 16
+home = "/home/cluster"
+
+[host.se4]
+hostname = "se4.proof.cit.tum.de"
+jobs = 8
+threads = 16
+home = "/home/cluster"
+
+[host.of1-proofb]
+hostname = "of1.proof.cit.tum.de"
+jobs = 1
+threads = 8
+home = "/home/cluster"
+
+[host.of2-proofb]
+hostname = "of2.proof.cit.tum.de"
+jobs = 2
+threads = 8
+home = "/home/cluster"
+
+[host.of3-proofb]
+hostname = "of3.proof.cit.tum.de"
+jobs = 2
+threads = 8
+home = "/home/cluster"
+
+[host.of4-proofb]
+hostname = "of4.proof.cit.tum.de"
+jobs = 2
+threads = 8
+home = "/home/cluster"
+
+[host.se1b]
+hostname = "se1.proof.cit.tum.de"
+jobs = 2
+threads = 8
+home = "/home/cluster"
+
+[host.se2b]
+hostname = "se2.proof.cit.tum.de"
+jobs = 2
+threads = 8
+home = "/home/cluster"
+
+[host.se3b]
+hostname = "se3.proof.cit.tum.de"
+jobs = 2
+threads = 8
+home = "/home/cluster"
+
+[host.se4b]
+hostname = "se4.proof.cit.tum.de"
+jobs = 2
+threads = 8
+home = "/home/cluster"
+
+
+[cluster.ls21-full]
+hosts = [
+  "of1-proof",
+  "of2-proof",
+  "of3-proof",
+  "of4-proof",
+  "se1",
+  "se2",
+  "se3",
+  "se4",
+]
+
+[cluster.ls21-smalla]
+hosts = [
+  "of1-proof",
+  "of2-proof",
+  "of3-proof",
+  "of4-proof",
+]
+
+[cluster.ls21-smallb]
+hosts = [
+  "se1",
+  "se2",
+  "se3",
+  "se4",
+]
+
+[cluster.ls21-fullb]
+hosts = [
+  "of1-proofb",
+  "of2-proofb",
+  "of3-proofb",
+  "of4-proofb",
+  "se1b",
+  "se2b",
+  "se3b",
+  "se4b",
+]

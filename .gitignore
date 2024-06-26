@@ -1,0 +1,5 @@
+generated/
+generated_*/
+lib/
+.idea/
+*.iml

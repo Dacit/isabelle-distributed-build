@@ -1,0 +1,9 @@
+title = Preliminary Experiment Tools
+module = $EXPERIMENTS_JAR
+requirements = \
+  env:ISABELLE_SCALA_JAR
+sources = \
+  build_analysis.scala \
+  build_schedule2.scala
+  
+services = isabelle.Experiment_Tools
