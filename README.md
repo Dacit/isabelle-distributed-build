@@ -4,20 +4,27 @@ This is a repository containing source code and data for the paper:
 
 ```bibtex
 @inproceedings{Huch:2214:DPBIAFP,
-  author = {Huch, Fabian and Wenzel, Makarius},
-  booktitle = {{Interactive Theorem Proving (ITP 2024)}},
-  title = {{Distributed Parallel Build for the Isabelle Archive of Formal Proofs}},
-  publisher = {{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}},
-  series = {{LIPIcs}},
-  doi = {10.4230/LIPIcs.ITP.2024.29},
-  year = {2024}
+    author = {Huch, Fabian and Wenzel, Makarius},
+    booktitle = {{Interactive Theorem Proving (ITP 2024)}},
+    title = {{Distributed Parallel Build for the Isabelle Archive of Formal Proofs}},
+    publisher = {{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}},
+    series = {{LIPIcs}},
+    doi = {10.4230/LIPIcs.ITP.2024.29},
+    year = {2024}
 }
 ```
 
 ## Usage
 
-This repository contains two entries: [preliminary](preliminary) with data and code for the
-preliminary experiments, and [experiments](experiments) for the Experimental Results section.
+This repository contains three entries:
+
+- [preliminary](preliminary) with raw data and Isabelle/Scala code for the preliminary experiments
+- [experiments](experiments) with raw data and Isabelle/Scala code for the Experimental Results
+  section
+- [figures](figures) with processed data and R code to generate the figures in the paper
+
+### Isabelle/Scala
+
 All commands/paths given in this README are relative to the repository root. We also assume a
 working Isabelle (usable via `isabelle` command) + afp-devel installation in the specified revision.
 
@@ -28,6 +35,7 @@ steps are finished. The component can be removed again with `isabelle component 
 
 You'll need a running PostgreSQL 14 database with `isabelle_build` database.
 Via docker:
+
 ```shell
 docker run --name postgres -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 postgres:14
 docker exec -it postgres bash
@@ -35,7 +43,10 @@ su - postgres
 psql
 CREATE DATABASE isabelle_build;
 ```
-Isabelle needs to be configured to use the db. For the docker example, set in `~/.isabelle/etc/preferences`:
+
+Isabelle needs to be configured to use the db. For the docker example, set
+in `~/.isabelle/etc/preferences`:
+
 ```
 build_database_name = "isabelle_build"
 build_database_host = "localhost"
@@ -44,7 +55,7 @@ build_database_user = "postgres"
 build_database_password = "mysecretpassword"
 ```
 
-### Preliminary
+#### Preliminary
 
 Requires `Isabelle/08b83f91a1b2` with `AFP/f51730d25fc3`. Experiments can be run with:
 
@@ -54,7 +65,7 @@ Requires `Isabelle/08b83f91a1b2` with `AFP/f51730d25fc3`. Experiments can be run
 - `isabelle interpolation_factors`: data for Figure 4
 - `isabelle compare_pth_params`: data for Figure 5
 
-### Experiments
+#### Experiments
 
 Requires linux, `Isabelle/Isabelle2024` with `AFP/Isabelle2024`, and a
 working `IBM ILOG CPLEX 22.11` installation, with the environment variable `CPLEX_STUDIO_DIR2211`
@@ -74,3 +85,15 @@ Some experiments need a dataset parameter parameter, which corresponds to:
 - `isabelle cplex_solve_problem <DATASET>`: Generate schedule by CPLEX in 3h for Figure 7
 - `isabelle cplex_solve_problem_fast <DATASET>`: Generate schedule by CPLEX in 5m for Figure 7
 - `isabelle schedule_analysis CA`: data for Figure 8
+
+### R Figures
+
+A working R installation is assumed, with the packages loaded in the [setup](figures/setup.R) (all
+exact versions of the R environment are [listed](figures/packages.csv), but most versions should
+work).
+
+To generate a plot, simply run one of the R files from the [figures](figures) directory, e.g.:
+
+```shell
+R < bootstrap.R --no-save
+```

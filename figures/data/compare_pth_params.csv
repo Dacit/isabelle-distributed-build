@@ -1,0 +1,694 @@
+config,is_criticals,parallel_threads,machine_splits,timing
+3_AFP,"absolute time (0:01:00)",\_→1,"per critical node",103.72761666666666
+3_AFP,"absolute time (0:01:00)",\_→1,"fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)",\_→1,"fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)",\_→1,"fixed fraction (0.5)",130.30536666666666
+3_AFP,"absolute time (0:01:00)",\_→1,"host speed (0.5)",160.46045
+3_AFP,"absolute time (0:01:00)",\_→1,"host speed (0.7)",160.46045
+3_AFP,"absolute time (0:01:00)",\_→1,"host speed (0.9)",160.46045
+3_AFP,"absolute time (0:01:00)",\_→4,"per critical node",109.08786666666667
+3_AFP,"absolute time (0:01:00)",\_→4,"fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)",\_→4,"fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)",\_→4,"fixed fraction (0.5)",128.97363333333334
+3_AFP,"absolute time (0:01:00)",\_→4,"host speed (0.5)",159.1399
+3_AFP,"absolute time (0:01:00)",\_→4,"host speed (0.7)",159.1399
+3_AFP,"absolute time (0:01:00)",\_→4,"host speed (0.9)",159.1399
+3_AFP,"absolute time (0:01:00)",\_→8,"per critical node",117.01681666666667
+3_AFP,"absolute time (0:01:00)",\_→8,"fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)",\_→8,"fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)",\_→8,"fixed fraction (0.5)",128.97363333333334
+3_AFP,"absolute time (0:01:00)",\_→8,"host speed (0.5)",159.10601666666668
+3_AFP,"absolute time (0:01:00)",\_→8,"host speed (0.7)",159.10601666666668
+3_AFP,"absolute time (0:01:00)",\_→8,"host speed (0.9)",159.10601666666668
+3_AFP,"absolute time (0:01:00)","1→1 \_→8","per critical node",103.72761666666666
+3_AFP,"absolute time (0:01:00)","1→1 \_→8","fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)","1→1 \_→8","fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)","1→1 \_→8","fixed fraction (0.5)",130.30536666666666
+3_AFP,"absolute time (0:01:00)","1→1 \_→8","host speed (0.5)",160.46045
+3_AFP,"absolute time (0:01:00)","1→1 \_→8","host speed (0.7)",160.46045
+3_AFP,"absolute time (0:01:00)","1→1 \_→8","host speed (0.9)",160.46045
+3_AFP,"absolute time (0:01:00)","1→1 5→4 \_→8","per critical node",103.72761666666666
+3_AFP,"absolute time (0:01:00)","1→1 5→4 \_→8","fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)","1→1 5→4 \_→8","fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)","1→1 5→4 \_→8","fixed fraction (0.5)",130.30536666666666
+3_AFP,"absolute time (0:01:00)","1→1 5→4 \_→8","host speed (0.5)",160.46045
+3_AFP,"absolute time (0:01:00)","1→1 5→4 \_→8","host speed (0.7)",160.46045
+3_AFP,"absolute time (0:01:00)","1→1 5→4 \_→8","host speed (0.9)",160.46045
+3_AFP,"absolute time (0:01:00)","1→1 5→2 10→4 \_→8","per critical node",103.72761666666666
+3_AFP,"absolute time (0:01:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",130.30536666666666
+3_AFP,"absolute time (0:01:00)","1→1 5→2 10→4 \_→8","host speed (0.5)",160.46045
+3_AFP,"absolute time (0:01:00)","1→1 5→2 10→4 \_→8","host speed (0.7)",160.46045
+3_AFP,"absolute time (0:01:00)","1→1 5→2 10→4 \_→8","host speed (0.9)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 \_→8","per critical node",103.72761666666666
+3_AFP,"absolute time (0:01:00)","2→1 \_→8","fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)","2→1 \_→8","fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)","2→1 \_→8","fixed fraction (0.5)",130.30536666666666
+3_AFP,"absolute time (0:01:00)","2→1 \_→8","host speed (0.5)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 \_→8","host speed (0.7)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 \_→8","host speed (0.9)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 10→4 \_→8","per critical node",103.72761666666666
+3_AFP,"absolute time (0:01:00)","2→1 10→4 \_→8","fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)","2→1 10→4 \_→8","fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)","2→1 10→4 \_→8","fixed fraction (0.5)",130.30536666666666
+3_AFP,"absolute time (0:01:00)","2→1 10→4 \_→8","host speed (0.5)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 10→4 \_→8","host speed (0.7)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 10→4 \_→8","host speed (0.9)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 10→2 20→4 \_→8","per critical node",103.72761666666666
+3_AFP,"absolute time (0:01:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",306.13168333333334
+3_AFP,"absolute time (0:01:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",146.89038333333335
+3_AFP,"absolute time (0:01:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",130.30536666666666
+3_AFP,"absolute time (0:01:00)","2→1 10→2 20→4 \_→8","host speed (0.5)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 10→2 20→4 \_→8","host speed (0.7)",160.46045
+3_AFP,"absolute time (0:01:00)","2→1 10→2 20→4 \_→8","host speed (0.9)",160.46045
+3_AFP,"absolute time (0:05:00)",\_→1,"per critical node",113.92751666666666
+3_AFP,"absolute time (0:05:00)",\_→1,"fixed fraction (0.1)",156.36045
+3_AFP,"absolute time (0:05:00)",\_→1,"fixed fraction (0.3)",107.67291666666667
+3_AFP,"absolute time (0:05:00)",\_→1,"fixed fraction (0.5)",128.12808333333334
+3_AFP,"absolute time (0:05:00)",\_→1,"host speed (0.5)",111.2749
+3_AFP,"absolute time (0:05:00)",\_→1,"host speed (0.7)",111.2749
+3_AFP,"absolute time (0:05:00)",\_→1,"host speed (0.9)",111.2749
+3_AFP,"absolute time (0:05:00)",\_→4,"per critical node",98.90833333333333
+3_AFP,"absolute time (0:05:00)",\_→4,"fixed fraction (0.1)",122.80743333333334
+3_AFP,"absolute time (0:05:00)",\_→4,"fixed fraction (0.3)",87.61655
+3_AFP,"absolute time (0:05:00)",\_→4,"fixed fraction (0.5)",91.1935
+3_AFP,"absolute time (0:05:00)",\_→4,"host speed (0.5)",87.21356666666667
+3_AFP,"absolute time (0:05:00)",\_→4,"host speed (0.7)",87.21356666666667
+3_AFP,"absolute time (0:05:00)",\_→4,"host speed (0.9)",87.21356666666667
+3_AFP,"absolute time (0:05:00)",\_→8,"per critical node",127.35575
+3_AFP,"absolute time (0:05:00)",\_→8,"fixed fraction (0.1)",115.58406666666667
+3_AFP,"absolute time (0:05:00)",\_→8,"fixed fraction (0.3)",113.87408333333333
+3_AFP,"absolute time (0:05:00)",\_→8,"fixed fraction (0.5)",118.70616666666666
+3_AFP,"absolute time (0:05:00)",\_→8,"host speed (0.5)",116.63776666666666
+3_AFP,"absolute time (0:05:00)",\_→8,"host speed (0.7)",116.63776666666666
+3_AFP,"absolute time (0:05:00)",\_→8,"host speed (0.9)",116.63776666666666
+3_AFP,"absolute time (0:05:00)","1→1 \_→8","per critical node",113.06748333333333
+3_AFP,"absolute time (0:05:00)","1→1 \_→8","fixed fraction (0.1)",112.41975
+3_AFP,"absolute time (0:05:00)","1→1 \_→8","fixed fraction (0.3)",97.31848333333333
+3_AFP,"absolute time (0:05:00)","1→1 \_→8","fixed fraction (0.5)",100.72513333333333
+3_AFP,"absolute time (0:05:00)","1→1 \_→8","host speed (0.5)",98.44198333333334
+3_AFP,"absolute time (0:05:00)","1→1 \_→8","host speed (0.7)",98.44198333333334
+3_AFP,"absolute time (0:05:00)","1→1 \_→8","host speed (0.9)",98.44198333333334
+3_AFP,"absolute time (0:05:00)","1→1 5→4 \_→8","per critical node",87.60176666666666
+3_AFP,"absolute time (0:05:00)","1→1 5→4 \_→8","fixed fraction (0.1)",123.27328333333334
+3_AFP,"absolute time (0:05:00)","1→1 5→4 \_→8","fixed fraction (0.3)",84.00568333333334
+3_AFP,"absolute time (0:05:00)","1→1 5→4 \_→8","fixed fraction (0.5)",82.7205
+3_AFP,"absolute time (0:05:00)","1→1 5→4 \_→8","host speed (0.5)",85.2011
+3_AFP,"absolute time (0:05:00)","1→1 5→4 \_→8","host speed (0.7)",85.2011
+3_AFP,"absolute time (0:05:00)","1→1 5→4 \_→8","host speed (0.9)",85.2011
+3_AFP,"absolute time (0:05:00)","1→1 5→2 10→4 \_→8","per critical node",113.7106
+3_AFP,"absolute time (0:05:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",115.32211666666667
+3_AFP,"absolute time (0:05:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",81.38461666666667
+3_AFP,"absolute time (0:05:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",103.41968333333334
+3_AFP,"absolute time (0:05:00)","1→1 5→2 10→4 \_→8","host speed (0.5)",94.6961
+3_AFP,"absolute time (0:05:00)","1→1 5→2 10→4 \_→8","host speed (0.7)",94.6961
+3_AFP,"absolute time (0:05:00)","1→1 5→2 10→4 \_→8","host speed (0.9)",94.6961
+3_AFP,"absolute time (0:05:00)","2→1 \_→8","per critical node",102.79005
+3_AFP,"absolute time (0:05:00)","2→1 \_→8","fixed fraction (0.1)",128.97846666666666
+3_AFP,"absolute time (0:05:00)","2→1 \_→8","fixed fraction (0.3)",90.03346666666667
+3_AFP,"absolute time (0:05:00)","2→1 \_→8","fixed fraction (0.5)",97.69765
+3_AFP,"absolute time (0:05:00)","2→1 \_→8","host speed (0.5)",90.93826666666666
+3_AFP,"absolute time (0:05:00)","2→1 \_→8","host speed (0.7)",90.93826666666666
+3_AFP,"absolute time (0:05:00)","2→1 \_→8","host speed (0.9)",90.93826666666666
+3_AFP,"absolute time (0:05:00)","2→1 10→4 \_→8","per critical node",103.2965
+3_AFP,"absolute time (0:05:00)","2→1 10→4 \_→8","fixed fraction (0.1)",147.16046666666668
+3_AFP,"absolute time (0:05:00)","2→1 10→4 \_→8","fixed fraction (0.3)",102.44221666666667
+3_AFP,"absolute time (0:05:00)","2→1 10→4 \_→8","fixed fraction (0.5)",83.37825
+3_AFP,"absolute time (0:05:00)","2→1 10→4 \_→8","host speed (0.5)",107.73676666666667
+3_AFP,"absolute time (0:05:00)","2→1 10→4 \_→8","host speed (0.7)",107.73676666666667
+3_AFP,"absolute time (0:05:00)","2→1 10→4 \_→8","host speed (0.9)",107.73676666666667
+3_AFP,"absolute time (0:05:00)","2→1 10→2 20→4 \_→8","per critical node",110.10541666666667
+3_AFP,"absolute time (0:05:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",139.8206
+3_AFP,"absolute time (0:05:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",94.84138333333334
+3_AFP,"absolute time (0:05:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",112.983
+3_AFP,"absolute time (0:05:00)","2→1 10→2 20→4 \_→8","host speed (0.5)",107.97411666666666
+3_AFP,"absolute time (0:05:00)","2→1 10→2 20→4 \_→8","host speed (0.7)",107.97411666666666
+3_AFP,"absolute time (0:05:00)","2→1 10→2 20→4 \_→8","host speed (0.9)",107.97411666666666
+3_AFP,"absolute time (0:10:00)",\_→1,"per critical node",187.55796666666666
+3_AFP,"absolute time (0:10:00)",\_→1,"fixed fraction (0.1)",204.5106
+3_AFP,"absolute time (0:10:00)",\_→1,"fixed fraction (0.3)",178.83773333333335
+3_AFP,"absolute time (0:10:00)",\_→1,"fixed fraction (0.5)",189.49286666666666
+3_AFP,"absolute time (0:10:00)",\_→1,"host speed (0.5)",238.53846666666666
+3_AFP,"absolute time (0:10:00)",\_→1,"host speed (0.7)",238.53846666666666
+3_AFP,"absolute time (0:10:00)",\_→1,"host speed (0.9)",238.53846666666666
+3_AFP,"absolute time (0:10:00)",\_→4,"per critical node",104.35423333333334
+3_AFP,"absolute time (0:10:00)",\_→4,"fixed fraction (0.1)",126.41131666666666
+3_AFP,"absolute time (0:10:00)",\_→4,"fixed fraction (0.3)",99.49853333333333
+3_AFP,"absolute time (0:10:00)",\_→4,"fixed fraction (0.5)",117.28775
+3_AFP,"absolute time (0:10:00)",\_→4,"host speed (0.5)",95.13163333333334
+3_AFP,"absolute time (0:10:00)",\_→4,"host speed (0.7)",95.13163333333334
+3_AFP,"absolute time (0:10:00)",\_→4,"host speed (0.9)",95.13163333333334
+3_AFP,"absolute time (0:10:00)",\_→8,"per critical node",119.4803
+3_AFP,"absolute time (0:10:00)",\_→8,"fixed fraction (0.1)",115.45365
+3_AFP,"absolute time (0:10:00)",\_→8,"fixed fraction (0.3)",115.09368333333333
+3_AFP,"absolute time (0:10:00)",\_→8,"fixed fraction (0.5)",118.5831
+3_AFP,"absolute time (0:10:00)",\_→8,"host speed (0.5)",116.11561666666667
+3_AFP,"absolute time (0:10:00)",\_→8,"host speed (0.7)",116.11561666666667
+3_AFP,"absolute time (0:10:00)",\_→8,"host speed (0.9)",116.11561666666667
+3_AFP,"absolute time (0:10:00)","1→1 \_→8","per critical node",104.1045
+3_AFP,"absolute time (0:10:00)","1→1 \_→8","fixed fraction (0.1)",99.89113333333333
+3_AFP,"absolute time (0:10:00)","1→1 \_→8","fixed fraction (0.3)",99.74748333333334
+3_AFP,"absolute time (0:10:00)","1→1 \_→8","fixed fraction (0.5)",98.99531666666667
+3_AFP,"absolute time (0:10:00)","1→1 \_→8","host speed (0.5)",102.93313333333333
+3_AFP,"absolute time (0:10:00)","1→1 \_→8","host speed (0.7)",102.93313333333333
+3_AFP,"absolute time (0:10:00)","1→1 \_→8","host speed (0.9)",102.93313333333333
+3_AFP,"absolute time (0:10:00)","1→1 5→4 \_→8","per critical node",80.5597
+3_AFP,"absolute time (0:10:00)","1→1 5→4 \_→8","fixed fraction (0.1)",78.39545
+3_AFP,"absolute time (0:10:00)","1→1 5→4 \_→8","fixed fraction (0.3)",82.59863333333334
+3_AFP,"absolute time (0:10:00)","1→1 5→4 \_→8","fixed fraction (0.5)",80.054
+3_AFP,"absolute time (0:10:00)","1→1 5→4 \_→8","host speed (0.5)",81.24266666666666
+3_AFP,"absolute time (0:10:00)","1→1 5→4 \_→8","host speed (0.7)",81.24266666666666
+3_AFP,"absolute time (0:10:00)","1→1 5→4 \_→8","host speed (0.9)",81.24266666666666
+3_AFP,"absolute time (0:10:00)","1→1 5→2 10→4 \_→8","per critical node",99.40876666666666
+3_AFP,"absolute time (0:10:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",90.40145
+3_AFP,"absolute time (0:10:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",112.77041666666666
+3_AFP,"absolute time (0:10:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",99.40876666666666
+3_AFP,"absolute time (0:10:00)","1→1 5→2 10→4 \_→8","host speed (0.5)",112.90721666666667
+3_AFP,"absolute time (0:10:00)","1→1 5→2 10→4 \_→8","host speed (0.7)",112.90721666666667
+3_AFP,"absolute time (0:10:00)","1→1 5→2 10→4 \_→8","host speed (0.9)",112.90721666666667
+3_AFP,"absolute time (0:10:00)","2→1 \_→8","per critical node",98.46735
+3_AFP,"absolute time (0:10:00)","2→1 \_→8","fixed fraction (0.1)",97.63023333333334
+3_AFP,"absolute time (0:10:00)","2→1 \_→8","fixed fraction (0.3)",114.32796666666667
+3_AFP,"absolute time (0:10:00)","2→1 \_→8","fixed fraction (0.5)",93.497
+3_AFP,"absolute time (0:10:00)","2→1 \_→8","host speed (0.5)",91.46095
+3_AFP,"absolute time (0:10:00)","2→1 \_→8","host speed (0.7)",91.46095
+3_AFP,"absolute time (0:10:00)","2→1 \_→8","host speed (0.9)",91.46095
+3_AFP,"absolute time (0:10:00)","2→1 10→4 \_→8","per critical node",99.40876666666666
+3_AFP,"absolute time (0:10:00)","2→1 10→4 \_→8","fixed fraction (0.1)",124.47446666666667
+3_AFP,"absolute time (0:10:00)","2→1 10→4 \_→8","fixed fraction (0.3)",103.83881666666667
+3_AFP,"absolute time (0:10:00)","2→1 10→4 \_→8","fixed fraction (0.5)",99.49853333333333
+3_AFP,"absolute time (0:10:00)","2→1 10→4 \_→8","host speed (0.5)",101.30825
+3_AFP,"absolute time (0:10:00)","2→1 10→4 \_→8","host speed (0.7)",101.30825
+3_AFP,"absolute time (0:10:00)","2→1 10→4 \_→8","host speed (0.9)",101.30825
+3_AFP,"absolute time (0:10:00)","2→1 10→2 20→4 \_→8","per critical node",123.8903
+3_AFP,"absolute time (0:10:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",104.96261666666666
+3_AFP,"absolute time (0:10:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",133.45851666666667
+3_AFP,"absolute time (0:10:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",134.35848333333334
+3_AFP,"absolute time (0:10:00)","2→1 10→2 20→4 \_→8","host speed (0.5)",127.46268333333333
+3_AFP,"absolute time (0:10:00)","2→1 10→2 20→4 \_→8","host speed (0.7)",127.46268333333333
+3_AFP,"absolute time (0:10:00)","2→1 10→2 20→4 \_→8","host speed (0.9)",127.46268333333333
+3_AFP,"absolute time (0:15:00)",\_→1,"per critical node",186.22581666666667
+3_AFP,"absolute time (0:15:00)",\_→1,"fixed fraction (0.1)",196.6012
+3_AFP,"absolute time (0:15:00)",\_→1,"fixed fraction (0.3)",188.59715
+3_AFP,"absolute time (0:15:00)",\_→1,"fixed fraction (0.5)",186.22581666666667
+3_AFP,"absolute time (0:15:00)",\_→1,"host speed (0.5)",141.30873333333332
+3_AFP,"absolute time (0:15:00)",\_→1,"host speed (0.7)",141.30873333333332
+3_AFP,"absolute time (0:15:00)",\_→1,"host speed (0.9)",141.30873333333332
+3_AFP,"absolute time (0:15:00)",\_→4,"per critical node",110.952
+3_AFP,"absolute time (0:15:00)",\_→4,"fixed fraction (0.1)",123.0275
+3_AFP,"absolute time (0:15:00)",\_→4,"fixed fraction (0.3)",102.6441
+3_AFP,"absolute time (0:15:00)",\_→4,"fixed fraction (0.5)",110.952
+3_AFP,"absolute time (0:15:00)",\_→4,"host speed (0.5)",127.79105
+3_AFP,"absolute time (0:15:00)",\_→4,"host speed (0.7)",127.79105
+3_AFP,"absolute time (0:15:00)",\_→4,"host speed (0.9)",127.79105
+3_AFP,"absolute time (0:15:00)",\_→8,"per critical node",117.63335
+3_AFP,"absolute time (0:15:00)",\_→8,"fixed fraction (0.1)",114.55711666666667
+3_AFP,"absolute time (0:15:00)",\_→8,"fixed fraction (0.3)",118.2977
+3_AFP,"absolute time (0:15:00)",\_→8,"fixed fraction (0.5)",117.63335
+3_AFP,"absolute time (0:15:00)",\_→8,"host speed (0.5)",114.33756666666666
+3_AFP,"absolute time (0:15:00)",\_→8,"host speed (0.7)",114.33756666666666
+3_AFP,"absolute time (0:15:00)",\_→8,"host speed (0.9)",114.33756666666666
+3_AFP,"absolute time (0:15:00)","1→1 \_→8","per critical node",101.89093333333334
+3_AFP,"absolute time (0:15:00)","1→1 \_→8","fixed fraction (0.1)",101.20508333333333
+3_AFP,"absolute time (0:15:00)","1→1 \_→8","fixed fraction (0.3)",100.26543333333333
+3_AFP,"absolute time (0:15:00)","1→1 \_→8","fixed fraction (0.5)",101.89093333333334
+3_AFP,"absolute time (0:15:00)","1→1 \_→8","host speed (0.5)",102.0773
+3_AFP,"absolute time (0:15:00)","1→1 \_→8","host speed (0.7)",102.0773
+3_AFP,"absolute time (0:15:00)","1→1 \_→8","host speed (0.9)",102.0773
+3_AFP,"absolute time (0:15:00)","1→1 5→4 \_→8","per critical node",84.14065
+3_AFP,"absolute time (0:15:00)","1→1 5→4 \_→8","fixed fraction (0.1)",83.86731666666667
+3_AFP,"absolute time (0:15:00)","1→1 5→4 \_→8","fixed fraction (0.3)",82.84681666666667
+3_AFP,"absolute time (0:15:00)","1→1 5→4 \_→8","fixed fraction (0.5)",84.14065
+3_AFP,"absolute time (0:15:00)","1→1 5→4 \_→8","host speed (0.5)",90.98765
+3_AFP,"absolute time (0:15:00)","1→1 5→4 \_→8","host speed (0.7)",90.98765
+3_AFP,"absolute time (0:15:00)","1→1 5→4 \_→8","host speed (0.9)",90.98765
+3_AFP,"absolute time (0:15:00)","1→1 5→2 10→4 \_→8","per critical node",95.48593333333334
+3_AFP,"absolute time (0:15:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",87.48726666666667
+3_AFP,"absolute time (0:15:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",93.13991666666666
+3_AFP,"absolute time (0:15:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",95.48593333333334
+3_AFP,"absolute time (0:15:00)","1→1 5→2 10→4 \_→8","host speed (0.5)",95.61251666666666
+3_AFP,"absolute time (0:15:00)","1→1 5→2 10→4 \_→8","host speed (0.7)",95.61251666666666
+3_AFP,"absolute time (0:15:00)","1→1 5→2 10→4 \_→8","host speed (0.9)",95.61251666666666
+3_AFP,"absolute time (0:15:00)","2→1 \_→8","per critical node",144.6743
+3_AFP,"absolute time (0:15:00)","2→1 \_→8","fixed fraction (0.1)",99.66786666666667
+3_AFP,"absolute time (0:15:00)","2→1 \_→8","fixed fraction (0.3)",101.69541666666667
+3_AFP,"absolute time (0:15:00)","2→1 \_→8","fixed fraction (0.5)",144.6743
+3_AFP,"absolute time (0:15:00)","2→1 \_→8","host speed (0.5)",99.21636666666667
+3_AFP,"absolute time (0:15:00)","2→1 \_→8","host speed (0.7)",99.21636666666667
+3_AFP,"absolute time (0:15:00)","2→1 \_→8","host speed (0.9)",99.21636666666667
+3_AFP,"absolute time (0:15:00)","2→1 10→4 \_→8","per critical node",103.1385
+3_AFP,"absolute time (0:15:00)","2→1 10→4 \_→8","fixed fraction (0.1)",122.90746666666666
+3_AFP,"absolute time (0:15:00)","2→1 10→4 \_→8","fixed fraction (0.3)",126.0174
+3_AFP,"absolute time (0:15:00)","2→1 10→4 \_→8","fixed fraction (0.5)",103.1385
+3_AFP,"absolute time (0:15:00)","2→1 10→4 \_→8","host speed (0.5)",103.27903333333333
+3_AFP,"absolute time (0:15:00)","2→1 10→4 \_→8","host speed (0.7)",103.27903333333333
+3_AFP,"absolute time (0:15:00)","2→1 10→4 \_→8","host speed (0.9)",103.27903333333333
+3_AFP,"absolute time (0:15:00)","2→1 10→2 20→4 \_→8","per critical node",120.59293333333333
+3_AFP,"absolute time (0:15:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",90.75523333333334
+3_AFP,"absolute time (0:15:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",106.83905
+3_AFP,"absolute time (0:15:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",120.59293333333333
+3_AFP,"absolute time (0:15:00)","2→1 10→2 20→4 \_→8","host speed (0.5)",121.00256666666667
+3_AFP,"absolute time (0:15:00)","2→1 10→2 20→4 \_→8","host speed (0.7)",121.00256666666667
+3_AFP,"absolute time (0:15:00)","2→1 10→2 20→4 \_→8","host speed (0.9)",121.00256666666667
+3_AFP,"absolute time (0:20:00)",\_→1,"per critical node",170.86836666666667
+3_AFP,"absolute time (0:20:00)",\_→1,"fixed fraction (0.1)",193.9502
+3_AFP,"absolute time (0:20:00)",\_→1,"fixed fraction (0.3)",170.86836666666667
+3_AFP,"absolute time (0:20:00)",\_→1,"fixed fraction (0.5)",170.86836666666667
+3_AFP,"absolute time (0:20:00)",\_→1,"host speed (0.5)",170.86836666666667
+3_AFP,"absolute time (0:20:00)",\_→1,"host speed (0.7)",170.86836666666667
+3_AFP,"absolute time (0:20:00)",\_→1,"host speed (0.9)",170.86836666666667
+3_AFP,"absolute time (0:20:00)",\_→4,"per critical node",81.80345
+3_AFP,"absolute time (0:20:00)",\_→4,"fixed fraction (0.1)",123.0275
+3_AFP,"absolute time (0:20:00)",\_→4,"fixed fraction (0.3)",81.80345
+3_AFP,"absolute time (0:20:00)",\_→4,"fixed fraction (0.5)",81.80345
+3_AFP,"absolute time (0:20:00)",\_→4,"host speed (0.5)",81.80345
+3_AFP,"absolute time (0:20:00)",\_→4,"host speed (0.7)",81.80345
+3_AFP,"absolute time (0:20:00)",\_→4,"host speed (0.9)",81.80345
+3_AFP,"absolute time (0:20:00)",\_→8,"per critical node",114.76416666666667
+3_AFP,"absolute time (0:20:00)",\_→8,"fixed fraction (0.1)",115.25085
+3_AFP,"absolute time (0:20:00)",\_→8,"fixed fraction (0.3)",114.76416666666667
+3_AFP,"absolute time (0:20:00)",\_→8,"fixed fraction (0.5)",114.76416666666667
+3_AFP,"absolute time (0:20:00)",\_→8,"host speed (0.5)",114.52508333333333
+3_AFP,"absolute time (0:20:00)",\_→8,"host speed (0.7)",114.52508333333333
+3_AFP,"absolute time (0:20:00)",\_→8,"host speed (0.9)",114.52508333333333
+3_AFP,"absolute time (0:20:00)","1→1 \_→8","per critical node",102.22313333333334
+3_AFP,"absolute time (0:20:00)","1→1 \_→8","fixed fraction (0.1)",100.41281666666667
+3_AFP,"absolute time (0:20:00)","1→1 \_→8","fixed fraction (0.3)",102.22313333333334
+3_AFP,"absolute time (0:20:00)","1→1 \_→8","fixed fraction (0.5)",102.22313333333334
+3_AFP,"absolute time (0:20:00)","1→1 \_→8","host speed (0.5)",99.64798333333333
+3_AFP,"absolute time (0:20:00)","1→1 \_→8","host speed (0.7)",99.64798333333333
+3_AFP,"absolute time (0:20:00)","1→1 \_→8","host speed (0.9)",99.64798333333333
+3_AFP,"absolute time (0:20:00)","1→1 5→4 \_→8","per critical node",89.38953333333333
+3_AFP,"absolute time (0:20:00)","1→1 5→4 \_→8","fixed fraction (0.1)",80.57891666666667
+3_AFP,"absolute time (0:20:00)","1→1 5→4 \_→8","fixed fraction (0.3)",89.38953333333333
+3_AFP,"absolute time (0:20:00)","1→1 5→4 \_→8","fixed fraction (0.5)",89.38953333333333
+3_AFP,"absolute time (0:20:00)","1→1 5→4 \_→8","host speed (0.5)",88.4399
+3_AFP,"absolute time (0:20:00)","1→1 5→4 \_→8","host speed (0.7)",88.4399
+3_AFP,"absolute time (0:20:00)","1→1 5→4 \_→8","host speed (0.9)",88.4399
+3_AFP,"absolute time (0:20:00)","1→1 5→2 10→4 \_→8","per critical node",71.3343
+3_AFP,"absolute time (0:20:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",100.3154
+3_AFP,"absolute time (0:20:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",71.3343
+3_AFP,"absolute time (0:20:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",71.3343
+3_AFP,"absolute time (0:20:00)","1→1 5→2 10→4 \_→8","host speed (0.5)",77.05035
+3_AFP,"absolute time (0:20:00)","1→1 5→2 10→4 \_→8","host speed (0.7)",77.05035
+3_AFP,"absolute time (0:20:00)","1→1 5→2 10→4 \_→8","host speed (0.9)",77.05035
+3_AFP,"absolute time (0:20:00)","2→1 \_→8","per critical node",95.5401
+3_AFP,"absolute time (0:20:00)","2→1 \_→8","fixed fraction (0.1)",94.47741666666667
+3_AFP,"absolute time (0:20:00)","2→1 \_→8","fixed fraction (0.3)",95.5401
+3_AFP,"absolute time (0:20:00)","2→1 \_→8","fixed fraction (0.5)",95.5401
+3_AFP,"absolute time (0:20:00)","2→1 \_→8","host speed (0.5)",97.8668
+3_AFP,"absolute time (0:20:00)","2→1 \_→8","host speed (0.7)",97.8668
+3_AFP,"absolute time (0:20:00)","2→1 \_→8","host speed (0.9)",97.8668
+3_AFP,"absolute time (0:20:00)","2→1 10→4 \_→8","per critical node",113.50298333333333
+3_AFP,"absolute time (0:20:00)","2→1 10→4 \_→8","fixed fraction (0.1)",77.17185
+3_AFP,"absolute time (0:20:00)","2→1 10→4 \_→8","fixed fraction (0.3)",113.50298333333333
+3_AFP,"absolute time (0:20:00)","2→1 10→4 \_→8","fixed fraction (0.5)",113.50298333333333
+3_AFP,"absolute time (0:20:00)","2→1 10→4 \_→8","host speed (0.5)",107.80116666666666
+3_AFP,"absolute time (0:20:00)","2→1 10→4 \_→8","host speed (0.7)",107.80116666666666
+3_AFP,"absolute time (0:20:00)","2→1 10→4 \_→8","host speed (0.9)",107.80116666666666
+3_AFP,"absolute time (0:20:00)","2→1 10→2 20→4 \_→8","per critical node",125.20138333333334
+3_AFP,"absolute time (0:20:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",113.67716666666666
+3_AFP,"absolute time (0:20:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",125.20138333333334
+3_AFP,"absolute time (0:20:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",125.20138333333334
+3_AFP,"absolute time (0:20:00)","2→1 10→2 20→4 \_→8","host speed (0.5)",92.4244
+3_AFP,"absolute time (0:20:00)","2→1 10→2 20→4 \_→8","host speed (0.7)",92.4244
+3_AFP,"absolute time (0:20:00)","2→1 10→2 20→4 \_→8","host speed (0.9)",92.4244
+3_AFP,"absolute time (0:25:00)",\_→1,"per critical node",206.46386666666666
+3_AFP,"absolute time (0:25:00)",\_→1,"fixed fraction (0.1)",206.46386666666666
+3_AFP,"absolute time (0:25:00)",\_→1,"fixed fraction (0.3)",206.46386666666666
+3_AFP,"absolute time (0:25:00)",\_→1,"fixed fraction (0.5)",206.46386666666666
+3_AFP,"absolute time (0:25:00)",\_→1,"host speed (0.5)",206.46386666666666
+3_AFP,"absolute time (0:25:00)",\_→1,"host speed (0.7)",206.46386666666666
+3_AFP,"absolute time (0:25:00)",\_→1,"host speed (0.9)",206.46386666666666
+3_AFP,"absolute time (0:25:00)",\_→4,"per critical node",123.13243333333334
+3_AFP,"absolute time (0:25:00)",\_→4,"fixed fraction (0.1)",123.13243333333334
+3_AFP,"absolute time (0:25:00)",\_→4,"fixed fraction (0.3)",123.13243333333334
+3_AFP,"absolute time (0:25:00)",\_→4,"fixed fraction (0.5)",123.13243333333334
+3_AFP,"absolute time (0:25:00)",\_→4,"host speed (0.5)",123.13243333333334
+3_AFP,"absolute time (0:25:00)",\_→4,"host speed (0.7)",123.13243333333334
+3_AFP,"absolute time (0:25:00)",\_→4,"host speed (0.9)",123.13243333333334
+3_AFP,"absolute time (0:25:00)",\_→8,"per critical node",114.23438333333333
+3_AFP,"absolute time (0:25:00)",\_→8,"fixed fraction (0.1)",114.23438333333333
+3_AFP,"absolute time (0:25:00)",\_→8,"fixed fraction (0.3)",114.23438333333333
+3_AFP,"absolute time (0:25:00)",\_→8,"fixed fraction (0.5)",114.23438333333333
+3_AFP,"absolute time (0:25:00)",\_→8,"host speed (0.5)",114.23438333333333
+3_AFP,"absolute time (0:25:00)",\_→8,"host speed (0.7)",114.23438333333333
+3_AFP,"absolute time (0:25:00)",\_→8,"host speed (0.9)",114.23438333333333
+3_AFP,"absolute time (0:25:00)","1→1 \_→8","per critical node",102.50775
+3_AFP,"absolute time (0:25:00)","1→1 \_→8","fixed fraction (0.1)",102.50775
+3_AFP,"absolute time (0:25:00)","1→1 \_→8","fixed fraction (0.3)",102.50775
+3_AFP,"absolute time (0:25:00)","1→1 \_→8","fixed fraction (0.5)",102.50775
+3_AFP,"absolute time (0:25:00)","1→1 \_→8","host speed (0.5)",102.50775
+3_AFP,"absolute time (0:25:00)","1→1 \_→8","host speed (0.7)",102.50775
+3_AFP,"absolute time (0:25:00)","1→1 \_→8","host speed (0.9)",102.50775
+3_AFP,"absolute time (0:25:00)","1→1 5→4 \_→8","per critical node",86.57765
+3_AFP,"absolute time (0:25:00)","1→1 5→4 \_→8","fixed fraction (0.1)",86.57765
+3_AFP,"absolute time (0:25:00)","1→1 5→4 \_→8","fixed fraction (0.3)",86.57765
+3_AFP,"absolute time (0:25:00)","1→1 5→4 \_→8","fixed fraction (0.5)",86.57765
+3_AFP,"absolute time (0:25:00)","1→1 5→4 \_→8","host speed (0.5)",86.57765
+3_AFP,"absolute time (0:25:00)","1→1 5→4 \_→8","host speed (0.7)",86.57765
+3_AFP,"absolute time (0:25:00)","1→1 5→4 \_→8","host speed (0.9)",86.57765
+3_AFP,"absolute time (0:25:00)","1→1 5→2 10→4 \_→8","per critical node",88.2041
+3_AFP,"absolute time (0:25:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",88.2041
+3_AFP,"absolute time (0:25:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",88.2041
+3_AFP,"absolute time (0:25:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",88.2041
+3_AFP,"absolute time (0:25:00)","1→1 5→2 10→4 \_→8","host speed (0.5)",88.2041
+3_AFP,"absolute time (0:25:00)","1→1 5→2 10→4 \_→8","host speed (0.7)",88.2041
+3_AFP,"absolute time (0:25:00)","1→1 5→2 10→4 \_→8","host speed (0.9)",88.2041
+3_AFP,"absolute time (0:25:00)","2→1 \_→8","per critical node",100.58678333333333
+3_AFP,"absolute time (0:25:00)","2→1 \_→8","fixed fraction (0.1)",100.58678333333333
+3_AFP,"absolute time (0:25:00)","2→1 \_→8","fixed fraction (0.3)",100.58678333333333
+3_AFP,"absolute time (0:25:00)","2→1 \_→8","fixed fraction (0.5)",100.58678333333333
+3_AFP,"absolute time (0:25:00)","2→1 \_→8","host speed (0.5)",100.58678333333333
+3_AFP,"absolute time (0:25:00)","2→1 \_→8","host speed (0.7)",100.58678333333333
+3_AFP,"absolute time (0:25:00)","2→1 \_→8","host speed (0.9)",100.58678333333333
+3_AFP,"absolute time (0:25:00)","2→1 10→4 \_→8","per critical node",111.3447
+3_AFP,"absolute time (0:25:00)","2→1 10→4 \_→8","fixed fraction (0.1)",111.3447
+3_AFP,"absolute time (0:25:00)","2→1 10→4 \_→8","fixed fraction (0.3)",111.3447
+3_AFP,"absolute time (0:25:00)","2→1 10→4 \_→8","fixed fraction (0.5)",111.3447
+3_AFP,"absolute time (0:25:00)","2→1 10→4 \_→8","host speed (0.5)",111.3447
+3_AFP,"absolute time (0:25:00)","2→1 10→4 \_→8","host speed (0.7)",111.3447
+3_AFP,"absolute time (0:25:00)","2→1 10→4 \_→8","host speed (0.9)",111.3447
+3_AFP,"absolute time (0:25:00)","2→1 10→2 20→4 \_→8","per critical node",137.11626666666666
+3_AFP,"absolute time (0:25:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",137.11626666666666
+3_AFP,"absolute time (0:25:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",137.11626666666666
+3_AFP,"absolute time (0:25:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",137.11626666666666
+3_AFP,"absolute time (0:25:00)","2→1 10→2 20→4 \_→8","host speed (0.5)",137.11626666666666
+3_AFP,"absolute time (0:25:00)","2→1 10→2 20→4 \_→8","host speed (0.7)",137.11626666666666
+3_AFP,"absolute time (0:25:00)","2→1 10→2 20→4 \_→8","host speed (0.9)",137.11626666666666
+3_AFP,"absolute time (0:30:00)",\_→1,"per critical node",206.46386666666666
+3_AFP,"absolute time (0:30:00)",\_→1,"fixed fraction (0.1)",206.46386666666666
+3_AFP,"absolute time (0:30:00)",\_→1,"fixed fraction (0.3)",206.46386666666666
+3_AFP,"absolute time (0:30:00)",\_→1,"fixed fraction (0.5)",206.46386666666666
+3_AFP,"absolute time (0:30:00)",\_→1,"host speed (0.5)",206.46386666666666
+3_AFP,"absolute time (0:30:00)",\_→1,"host speed (0.7)",206.46386666666666
+3_AFP,"absolute time (0:30:00)",\_→1,"host speed (0.9)",206.46386666666666
+3_AFP,"absolute time (0:30:00)",\_→4,"per critical node",123.13243333333334
+3_AFP,"absolute time (0:30:00)",\_→4,"fixed fraction (0.1)",123.13243333333334
+3_AFP,"absolute time (0:30:00)",\_→4,"fixed fraction (0.3)",123.13243333333334
+3_AFP,"absolute time (0:30:00)",\_→4,"fixed fraction (0.5)",123.13243333333334
+3_AFP,"absolute time (0:30:00)",\_→4,"host speed (0.5)",123.13243333333334
+3_AFP,"absolute time (0:30:00)",\_→4,"host speed (0.7)",123.13243333333334
+3_AFP,"absolute time (0:30:00)",\_→4,"host speed (0.9)",123.13243333333334
+3_AFP,"absolute time (0:30:00)",\_→8,"per critical node",114.23438333333333
+3_AFP,"absolute time (0:30:00)",\_→8,"fixed fraction (0.1)",114.23438333333333
+3_AFP,"absolute time (0:30:00)",\_→8,"fixed fraction (0.3)",114.23438333333333
+3_AFP,"absolute time (0:30:00)",\_→8,"fixed fraction (0.5)",114.23438333333333
+3_AFP,"absolute time (0:30:00)",\_→8,"host speed (0.5)",114.23438333333333
+3_AFP,"absolute time (0:30:00)",\_→8,"host speed (0.7)",114.23438333333333
+3_AFP,"absolute time (0:30:00)",\_→8,"host speed (0.9)",114.23438333333333
+3_AFP,"absolute time (0:30:00)","1→1 \_→8","per critical node",102.50775
+3_AFP,"absolute time (0:30:00)","1→1 \_→8","fixed fraction (0.1)",102.50775
+3_AFP,"absolute time (0:30:00)","1→1 \_→8","fixed fraction (0.3)",102.50775
+3_AFP,"absolute time (0:30:00)","1→1 \_→8","fixed fraction (0.5)",102.50775
+3_AFP,"absolute time (0:30:00)","1→1 \_→8","host speed (0.5)",102.50775
+3_AFP,"absolute time (0:30:00)","1→1 \_→8","host speed (0.7)",102.50775
+3_AFP,"absolute time (0:30:00)","1→1 \_→8","host speed (0.9)",102.50775
+3_AFP,"absolute time (0:30:00)","1→1 5→4 \_→8","per critical node",86.57765
+3_AFP,"absolute time (0:30:00)","1→1 5→4 \_→8","fixed fraction (0.1)",86.57765
+3_AFP,"absolute time (0:30:00)","1→1 5→4 \_→8","fixed fraction (0.3)",86.57765
+3_AFP,"absolute time (0:30:00)","1→1 5→4 \_→8","fixed fraction (0.5)",86.57765
+3_AFP,"absolute time (0:30:00)","1→1 5→4 \_→8","host speed (0.5)",86.57765
+3_AFP,"absolute time (0:30:00)","1→1 5→4 \_→8","host speed (0.7)",86.57765
+3_AFP,"absolute time (0:30:00)","1→1 5→4 \_→8","host speed (0.9)",86.57765
+3_AFP,"absolute time (0:30:00)","1→1 5→2 10→4 \_→8","per critical node",88.2041
+3_AFP,"absolute time (0:30:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",88.2041
+3_AFP,"absolute time (0:30:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",88.2041
+3_AFP,"absolute time (0:30:00)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",88.2041
+3_AFP,"absolute time (0:30:00)","1→1 5→2 10→4 \_→8","host speed (0.5)",88.2041
+3_AFP,"absolute time (0:30:00)","1→1 5→2 10→4 \_→8","host speed (0.7)",88.2041
+3_AFP,"absolute time (0:30:00)","1→1 5→2 10→4 \_→8","host speed (0.9)",88.2041
+3_AFP,"absolute time (0:30:00)","2→1 \_→8","per critical node",100.58678333333333
+3_AFP,"absolute time (0:30:00)","2→1 \_→8","fixed fraction (0.1)",100.58678333333333
+3_AFP,"absolute time (0:30:00)","2→1 \_→8","fixed fraction (0.3)",100.58678333333333
+3_AFP,"absolute time (0:30:00)","2→1 \_→8","fixed fraction (0.5)",100.58678333333333
+3_AFP,"absolute time (0:30:00)","2→1 \_→8","host speed (0.5)",100.58678333333333
+3_AFP,"absolute time (0:30:00)","2→1 \_→8","host speed (0.7)",100.58678333333333
+3_AFP,"absolute time (0:30:00)","2→1 \_→8","host speed (0.9)",100.58678333333333
+3_AFP,"absolute time (0:30:00)","2→1 10→4 \_→8","per critical node",111.3447
+3_AFP,"absolute time (0:30:00)","2→1 10→4 \_→8","fixed fraction (0.1)",111.3447
+3_AFP,"absolute time (0:30:00)","2→1 10→4 \_→8","fixed fraction (0.3)",111.3447
+3_AFP,"absolute time (0:30:00)","2→1 10→4 \_→8","fixed fraction (0.5)",111.3447
+3_AFP,"absolute time (0:30:00)","2→1 10→4 \_→8","host speed (0.5)",111.3447
+3_AFP,"absolute time (0:30:00)","2→1 10→4 \_→8","host speed (0.7)",111.3447
+3_AFP,"absolute time (0:30:00)","2→1 10→4 \_→8","host speed (0.9)",111.3447
+3_AFP,"absolute time (0:30:00)","2→1 10→2 20→4 \_→8","per critical node",137.11626666666666
+3_AFP,"absolute time (0:30:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",137.11626666666666
+3_AFP,"absolute time (0:30:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",137.11626666666666
+3_AFP,"absolute time (0:30:00)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",137.11626666666666
+3_AFP,"absolute time (0:30:00)","2→1 10→2 20→4 \_→8","host speed (0.5)",137.11626666666666
+3_AFP,"absolute time (0:30:00)","2→1 10→2 20→4 \_→8","host speed (0.7)",137.11626666666666
+3_AFP,"absolute time (0:30:00)","2→1 10→2 20→4 \_→8","host speed (0.9)",137.11626666666666
+3_AFP,"relative time (0.9)",\_→1,"per critical node",182.08821666666665
+3_AFP,"relative time (0.9)",\_→1,"fixed fraction (0.1)",182.08821666666665
+3_AFP,"relative time (0.9)",\_→1,"fixed fraction (0.3)",182.08821666666665
+3_AFP,"relative time (0.9)",\_→1,"fixed fraction (0.5)",182.08821666666665
+3_AFP,"relative time (0.9)",\_→1,"host speed (0.5)",182.08821666666665
+3_AFP,"relative time (0.9)",\_→1,"host speed (0.7)",182.08821666666665
+3_AFP,"relative time (0.9)",\_→1,"host speed (0.9)",182.08821666666665
+3_AFP,"relative time (0.9)",\_→4,"per critical node",99.30263333333333
+3_AFP,"relative time (0.9)",\_→4,"fixed fraction (0.1)",99.30263333333333
+3_AFP,"relative time (0.9)",\_→4,"fixed fraction (0.3)",99.30263333333333
+3_AFP,"relative time (0.9)",\_→4,"fixed fraction (0.5)",99.30263333333333
+3_AFP,"relative time (0.9)",\_→4,"host speed (0.5)",99.30263333333333
+3_AFP,"relative time (0.9)",\_→4,"host speed (0.7)",99.30263333333333
+3_AFP,"relative time (0.9)",\_→4,"host speed (0.9)",99.30263333333333
+3_AFP,"relative time (0.9)",\_→8,"per critical node",115.25085
+3_AFP,"relative time (0.9)",\_→8,"fixed fraction (0.1)",115.25085
+3_AFP,"relative time (0.9)",\_→8,"fixed fraction (0.3)",115.25085
+3_AFP,"relative time (0.9)",\_→8,"fixed fraction (0.5)",115.25085
+3_AFP,"relative time (0.9)",\_→8,"host speed (0.5)",115.25085
+3_AFP,"relative time (0.9)",\_→8,"host speed (0.7)",115.25085
+3_AFP,"relative time (0.9)",\_→8,"host speed (0.9)",115.25085
+3_AFP,"relative time (0.9)","1→1 \_→8","per critical node",105.02886666666667
+3_AFP,"relative time (0.9)","1→1 \_→8","fixed fraction (0.1)",105.02886666666667
+3_AFP,"relative time (0.9)","1→1 \_→8","fixed fraction (0.3)",105.02886666666667
+3_AFP,"relative time (0.9)","1→1 \_→8","fixed fraction (0.5)",105.02886666666667
+3_AFP,"relative time (0.9)","1→1 \_→8","host speed (0.5)",105.02886666666667
+3_AFP,"relative time (0.9)","1→1 \_→8","host speed (0.7)",105.02886666666667
+3_AFP,"relative time (0.9)","1→1 \_→8","host speed (0.9)",105.02886666666667
+3_AFP,"relative time (0.9)","1→1 5→4 \_→8","per critical node",92.9704
+3_AFP,"relative time (0.9)","1→1 5→4 \_→8","fixed fraction (0.1)",92.9704
+3_AFP,"relative time (0.9)","1→1 5→4 \_→8","fixed fraction (0.3)",92.9704
+3_AFP,"relative time (0.9)","1→1 5→4 \_→8","fixed fraction (0.5)",92.9704
+3_AFP,"relative time (0.9)","1→1 5→4 \_→8","host speed (0.5)",92.9704
+3_AFP,"relative time (0.9)","1→1 5→4 \_→8","host speed (0.7)",92.9704
+3_AFP,"relative time (0.9)","1→1 5→4 \_→8","host speed (0.9)",92.9704
+3_AFP,"relative time (0.9)","1→1 5→2 10→4 \_→8","per critical node",105.98653333333333
+3_AFP,"relative time (0.9)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",105.98653333333333
+3_AFP,"relative time (0.9)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",105.98653333333333
+3_AFP,"relative time (0.9)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",105.98653333333333
+3_AFP,"relative time (0.9)","1→1 5→2 10→4 \_→8","host speed (0.5)",105.98653333333333
+3_AFP,"relative time (0.9)","1→1 5→2 10→4 \_→8","host speed (0.7)",105.98653333333333
+3_AFP,"relative time (0.9)","1→1 5→2 10→4 \_→8","host speed (0.9)",105.98653333333333
+3_AFP,"relative time (0.9)","2→1 \_→8","per critical node",96.57183333333333
+3_AFP,"relative time (0.9)","2→1 \_→8","fixed fraction (0.1)",96.57183333333333
+3_AFP,"relative time (0.9)","2→1 \_→8","fixed fraction (0.3)",96.57183333333333
+3_AFP,"relative time (0.9)","2→1 \_→8","fixed fraction (0.5)",96.57183333333333
+3_AFP,"relative time (0.9)","2→1 \_→8","host speed (0.5)",96.57183333333333
+3_AFP,"relative time (0.9)","2→1 \_→8","host speed (0.7)",96.57183333333333
+3_AFP,"relative time (0.9)","2→1 \_→8","host speed (0.9)",96.57183333333333
+3_AFP,"relative time (0.9)","2→1 10→4 \_→8","per critical node",99.26
+3_AFP,"relative time (0.9)","2→1 10→4 \_→8","fixed fraction (0.1)",99.26
+3_AFP,"relative time (0.9)","2→1 10→4 \_→8","fixed fraction (0.3)",99.26
+3_AFP,"relative time (0.9)","2→1 10→4 \_→8","fixed fraction (0.5)",99.26
+3_AFP,"relative time (0.9)","2→1 10→4 \_→8","host speed (0.5)",99.26
+3_AFP,"relative time (0.9)","2→1 10→4 \_→8","host speed (0.7)",99.26
+3_AFP,"relative time (0.9)","2→1 10→4 \_→8","host speed (0.9)",99.26
+3_AFP,"relative time (0.9)","2→1 10→2 20→4 \_→8","per critical node",91.70978333333333
+3_AFP,"relative time (0.9)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",91.70978333333333
+3_AFP,"relative time (0.9)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",91.70978333333333
+3_AFP,"relative time (0.9)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",91.70978333333333
+3_AFP,"relative time (0.9)","2→1 10→2 20→4 \_→8","host speed (0.5)",91.70978333333333
+3_AFP,"relative time (0.9)","2→1 10→2 20→4 \_→8","host speed (0.7)",91.70978333333333
+3_AFP,"relative time (0.9)","2→1 10→2 20→4 \_→8","host speed (0.9)",91.70978333333333
+3_AFP,"relative time (0.75)",\_→1,"per critical node",238.53846666666666
+3_AFP,"relative time (0.75)",\_→1,"fixed fraction (0.1)",157.38701666666665
+3_AFP,"relative time (0.75)",\_→1,"fixed fraction (0.3)",587.4203666666667
+3_AFP,"relative time (0.75)",\_→1,"fixed fraction (0.5)",238.53846666666666
+3_AFP,"relative time (0.75)",\_→1,"host speed (0.5)",238.53846666666666
+3_AFP,"relative time (0.75)",\_→1,"host speed (0.7)",238.53846666666666
+3_AFP,"relative time (0.75)",\_→1,"host speed (0.9)",238.53846666666666
+3_AFP,"relative time (0.75)",\_→4,"per critical node",105.83918333333334
+3_AFP,"relative time (0.75)",\_→4,"fixed fraction (0.1)",120.67998333333334
+3_AFP,"relative time (0.75)",\_→4,"fixed fraction (0.3)",84.25503333333333
+3_AFP,"relative time (0.75)",\_→4,"fixed fraction (0.5)",105.83918333333334
+3_AFP,"relative time (0.75)",\_→4,"host speed (0.5)",83.47285
+3_AFP,"relative time (0.75)",\_→4,"host speed (0.7)",83.47285
+3_AFP,"relative time (0.75)",\_→4,"host speed (0.9)",83.47285
+3_AFP,"relative time (0.75)",\_→8,"per critical node",115.17441666666667
+3_AFP,"relative time (0.75)",\_→8,"fixed fraction (0.1)",115.29818333333333
+3_AFP,"relative time (0.75)",\_→8,"fixed fraction (0.3)",115.64551666666667
+3_AFP,"relative time (0.75)",\_→8,"fixed fraction (0.5)",115.17441666666667
+3_AFP,"relative time (0.75)",\_→8,"host speed (0.5)",114.32058333333333
+3_AFP,"relative time (0.75)",\_→8,"host speed (0.7)",114.32058333333333
+3_AFP,"relative time (0.75)",\_→8,"host speed (0.9)",114.32058333333333
+3_AFP,"relative time (0.75)","1→1 \_→8","per critical node",101.9859
+3_AFP,"relative time (0.75)","1→1 \_→8","fixed fraction (0.1)",100.0944
+3_AFP,"relative time (0.75)","1→1 \_→8","fixed fraction (0.3)",104.99265
+3_AFP,"relative time (0.75)","1→1 \_→8","fixed fraction (0.5)",101.9859
+3_AFP,"relative time (0.75)","1→1 \_→8","host speed (0.5)",103.00065
+3_AFP,"relative time (0.75)","1→1 \_→8","host speed (0.7)",103.00065
+3_AFP,"relative time (0.75)","1→1 \_→8","host speed (0.9)",103.00065
+3_AFP,"relative time (0.75)","1→1 5→4 \_→8","per critical node",95.55195
+3_AFP,"relative time (0.75)","1→1 5→4 \_→8","fixed fraction (0.1)",82.21336666666667
+3_AFP,"relative time (0.75)","1→1 5→4 \_→8","fixed fraction (0.3)",89.63491666666667
+3_AFP,"relative time (0.75)","1→1 5→4 \_→8","fixed fraction (0.5)",95.55195
+3_AFP,"relative time (0.75)","1→1 5→4 \_→8","host speed (0.5)",90.79366666666667
+3_AFP,"relative time (0.75)","1→1 5→4 \_→8","host speed (0.7)",90.79366666666667
+3_AFP,"relative time (0.75)","1→1 5→4 \_→8","host speed (0.9)",90.79366666666667
+3_AFP,"relative time (0.75)","1→1 5→2 10→4 \_→8","per critical node",120.19456666666666
+3_AFP,"relative time (0.75)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",79.87241666666667
+3_AFP,"relative time (0.75)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",120.19456666666666
+3_AFP,"relative time (0.75)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",120.19456666666666
+3_AFP,"relative time (0.75)","1→1 5→2 10→4 \_→8","host speed (0.5)",108.16881666666667
+3_AFP,"relative time (0.75)","1→1 5→2 10→4 \_→8","host speed (0.7)",108.16881666666667
+3_AFP,"relative time (0.75)","1→1 5→2 10→4 \_→8","host speed (0.9)",108.16881666666667
+3_AFP,"relative time (0.75)","2→1 \_→8","per critical node",100.1484
+3_AFP,"relative time (0.75)","2→1 \_→8","fixed fraction (0.1)",98.72686666666667
+3_AFP,"relative time (0.75)","2→1 \_→8","fixed fraction (0.3)",97.46895
+3_AFP,"relative time (0.75)","2→1 \_→8","fixed fraction (0.5)",100.1484
+3_AFP,"relative time (0.75)","2→1 \_→8","host speed (0.5)",97.7929
+3_AFP,"relative time (0.75)","2→1 \_→8","host speed (0.7)",97.7929
+3_AFP,"relative time (0.75)","2→1 \_→8","host speed (0.9)",97.7929
+3_AFP,"relative time (0.75)","2→1 10→4 \_→8","per critical node",88.73255
+3_AFP,"relative time (0.75)","2→1 10→4 \_→8","fixed fraction (0.1)",101.33085
+3_AFP,"relative time (0.75)","2→1 10→4 \_→8","fixed fraction (0.3)",85.09568333333333
+3_AFP,"relative time (0.75)","2→1 10→4 \_→8","fixed fraction (0.5)",88.73255
+3_AFP,"relative time (0.75)","2→1 10→4 \_→8","host speed (0.5)",112.9291
+3_AFP,"relative time (0.75)","2→1 10→4 \_→8","host speed (0.7)",112.9291
+3_AFP,"relative time (0.75)","2→1 10→4 \_→8","host speed (0.9)",112.9291
+3_AFP,"relative time (0.75)","2→1 10→2 20→4 \_→8","per critical node",125.15713333333333
+3_AFP,"relative time (0.75)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",90.79968333333333
+3_AFP,"relative time (0.75)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",125.15713333333333
+3_AFP,"relative time (0.75)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",125.15713333333333
+3_AFP,"relative time (0.75)","2→1 10→2 20→4 \_→8","host speed (0.5)",125.15713333333333
+3_AFP,"relative time (0.75)","2→1 10→2 20→4 \_→8","host speed (0.7)",125.15713333333333
+3_AFP,"relative time (0.75)","2→1 10→2 20→4 \_→8","host speed (0.9)",125.15713333333333
+3_AFP,"relative time (0.5)",\_→1,"per critical node",237.41593333333333
+3_AFP,"relative time (0.5)",\_→1,"fixed fraction (0.1)",244.92658333333333
+3_AFP,"relative time (0.5)",\_→1,"fixed fraction (0.3)",575.4975
+3_AFP,"relative time (0.5)",\_→1,"fixed fraction (0.5)",201.08378333333334
+3_AFP,"relative time (0.5)",\_→1,"host speed (0.5)",238.53846666666666
+3_AFP,"relative time (0.5)",\_→1,"host speed (0.7)",238.53846666666666
+3_AFP,"relative time (0.5)",\_→1,"host speed (0.9)",238.53846666666666
+3_AFP,"relative time (0.5)",\_→4,"per critical node",85.71696666666666
+3_AFP,"relative time (0.5)",\_→4,"fixed fraction (0.1)",119.27168333333333
+3_AFP,"relative time (0.5)",\_→4,"fixed fraction (0.3)",86.1572
+3_AFP,"relative time (0.5)",\_→4,"fixed fraction (0.5)",86.76078333333334
+3_AFP,"relative time (0.5)",\_→4,"host speed (0.5)",118.4014
+3_AFP,"relative time (0.5)",\_→4,"host speed (0.7)",118.4014
+3_AFP,"relative time (0.5)",\_→4,"host speed (0.9)",118.4014
+3_AFP,"relative time (0.5)",\_→8,"per critical node",116.27926666666667
+3_AFP,"relative time (0.5)",\_→8,"fixed fraction (0.1)",114.83668333333334
+3_AFP,"relative time (0.5)",\_→8,"fixed fraction (0.3)",118.34913333333333
+3_AFP,"relative time (0.5)",\_→8,"fixed fraction (0.5)",116.74038333333333
+3_AFP,"relative time (0.5)",\_→8,"host speed (0.5)",115.68725
+3_AFP,"relative time (0.5)",\_→8,"host speed (0.7)",115.68725
+3_AFP,"relative time (0.5)",\_→8,"host speed (0.9)",115.68725
+3_AFP,"relative time (0.5)","1→1 \_→8","per critical node",104.90981666666667
+3_AFP,"relative time (0.5)","1→1 \_→8","fixed fraction (0.1)",101.43018333333333
+3_AFP,"relative time (0.5)","1→1 \_→8","fixed fraction (0.3)",100.78918333333333
+3_AFP,"relative time (0.5)","1→1 \_→8","fixed fraction (0.5)",101.66795
+3_AFP,"relative time (0.5)","1→1 \_→8","host speed (0.5)",101.23663333333333
+3_AFP,"relative time (0.5)","1→1 \_→8","host speed (0.7)",101.23663333333333
+3_AFP,"relative time (0.5)","1→1 \_→8","host speed (0.9)",101.23663333333333
+3_AFP,"relative time (0.5)","1→1 5→4 \_→8","per critical node",80.98066666666666
+3_AFP,"relative time (0.5)","1→1 5→4 \_→8","fixed fraction (0.1)",83.15171666666667
+3_AFP,"relative time (0.5)","1→1 5→4 \_→8","fixed fraction (0.3)",81.3588
+3_AFP,"relative time (0.5)","1→1 5→4 \_→8","fixed fraction (0.5)",82.66833333333334
+3_AFP,"relative time (0.5)","1→1 5→4 \_→8","host speed (0.5)",77.29913333333333
+3_AFP,"relative time (0.5)","1→1 5→4 \_→8","host speed (0.7)",77.29913333333333
+3_AFP,"relative time (0.5)","1→1 5→4 \_→8","host speed (0.9)",77.29913333333333
+3_AFP,"relative time (0.5)","1→1 5→2 10→4 \_→8","per critical node",81.07283333333334
+3_AFP,"relative time (0.5)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",85.26678333333334
+3_AFP,"relative time (0.5)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",100.7206
+3_AFP,"relative time (0.5)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",87.82993333333333
+3_AFP,"relative time (0.5)","1→1 5→2 10→4 \_→8","host speed (0.5)",112.90721666666667
+3_AFP,"relative time (0.5)","1→1 5→2 10→4 \_→8","host speed (0.7)",112.90721666666667
+3_AFP,"relative time (0.5)","1→1 5→2 10→4 \_→8","host speed (0.9)",112.90721666666667
+3_AFP,"relative time (0.5)","2→1 \_→8","per critical node",100.28256666666667
+3_AFP,"relative time (0.5)","2→1 \_→8","fixed fraction (0.1)",120.35235
+3_AFP,"relative time (0.5)","2→1 \_→8","fixed fraction (0.3)",114.7484
+3_AFP,"relative time (0.5)","2→1 \_→8","fixed fraction (0.5)",100.45891666666667
+3_AFP,"relative time (0.5)","2→1 \_→8","host speed (0.5)",99.64228333333334
+3_AFP,"relative time (0.5)","2→1 \_→8","host speed (0.7)",99.64228333333334
+3_AFP,"relative time (0.5)","2→1 \_→8","host speed (0.9)",99.64228333333334
+3_AFP,"relative time (0.5)","2→1 10→4 \_→8","per critical node",125.02218333333333
+3_AFP,"relative time (0.5)","2→1 10→4 \_→8","fixed fraction (0.1)",129.50585
+3_AFP,"relative time (0.5)","2→1 10→4 \_→8","fixed fraction (0.3)",107.18373333333334
+3_AFP,"relative time (0.5)","2→1 10→4 \_→8","fixed fraction (0.5)",125.7672
+3_AFP,"relative time (0.5)","2→1 10→4 \_→8","host speed (0.5)",72.70291666666667
+3_AFP,"relative time (0.5)","2→1 10→4 \_→8","host speed (0.7)",72.70291666666667
+3_AFP,"relative time (0.5)","2→1 10→4 \_→8","host speed (0.9)",72.70291666666667
+3_AFP,"relative time (0.5)","2→1 10→2 20→4 \_→8","per critical node",153.82823333333334
+3_AFP,"relative time (0.5)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",152.37496666666667
+3_AFP,"relative time (0.5)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",138.784
+3_AFP,"relative time (0.5)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",141.94088333333335
+3_AFP,"relative time (0.5)","2→1 10→2 20→4 \_→8","host speed (0.5)",139.95143333333334
+3_AFP,"relative time (0.5)","2→1 10→2 20→4 \_→8","host speed (0.7)",139.95143333333334
+3_AFP,"relative time (0.5)","2→1 10→2 20→4 \_→8","host speed (0.9)",139.95143333333334
+3_AFP,"relative time (0.25)",\_→1,"per critical node",133.75913333333332
+3_AFP,"relative time (0.25)",\_→1,"fixed fraction (0.1)",126.8733
+3_AFP,"relative time (0.25)",\_→1,"fixed fraction (0.3)",141.30873333333332
+3_AFP,"relative time (0.25)",\_→1,"fixed fraction (0.5)",167.85126666666667
+3_AFP,"relative time (0.25)",\_→1,"host speed (0.5)",108.79555
+3_AFP,"relative time (0.25)",\_→1,"host speed (0.7)",108.79555
+3_AFP,"relative time (0.25)",\_→1,"host speed (0.9)",108.79555
+3_AFP,"relative time (0.25)",\_→4,"per critical node",97.5131
+3_AFP,"relative time (0.25)",\_→4,"fixed fraction (0.1)",101.10703333333333
+3_AFP,"relative time (0.25)",\_→4,"fixed fraction (0.3)",84.2016
+3_AFP,"relative time (0.25)",\_→4,"fixed fraction (0.5)",92.07408333333333
+3_AFP,"relative time (0.25)",\_→4,"host speed (0.5)",86.64481666666667
+3_AFP,"relative time (0.25)",\_→4,"host speed (0.7)",86.64481666666667
+3_AFP,"relative time (0.25)",\_→4,"host speed (0.9)",86.64481666666667
+3_AFP,"relative time (0.25)",\_→8,"per critical node",125.44511666666666
+3_AFP,"relative time (0.25)",\_→8,"fixed fraction (0.1)",114.45848333333333
+3_AFP,"relative time (0.25)",\_→8,"fixed fraction (0.3)",114.71875
+3_AFP,"relative time (0.25)",\_→8,"fixed fraction (0.5)",121.3031
+3_AFP,"relative time (0.25)",\_→8,"host speed (0.5)",115.39586666666666
+3_AFP,"relative time (0.25)",\_→8,"host speed (0.7)",115.39586666666666
+3_AFP,"relative time (0.25)",\_→8,"host speed (0.9)",115.39586666666666
+3_AFP,"relative time (0.25)","1→1 \_→8","per critical node",110.89296666666667
+3_AFP,"relative time (0.25)","1→1 \_→8","fixed fraction (0.1)",99.57955
+3_AFP,"relative time (0.25)","1→1 \_→8","fixed fraction (0.3)",95.9022
+3_AFP,"relative time (0.25)","1→1 \_→8","fixed fraction (0.5)",101.5056
+3_AFP,"relative time (0.25)","1→1 \_→8","host speed (0.5)",96.79721666666667
+3_AFP,"relative time (0.25)","1→1 \_→8","host speed (0.7)",96.79721666666667
+3_AFP,"relative time (0.25)","1→1 \_→8","host speed (0.9)",96.79721666666667
+3_AFP,"relative time (0.25)","1→1 5→4 \_→8","per critical node",90.01203333333333
+3_AFP,"relative time (0.25)","1→1 5→4 \_→8","fixed fraction (0.1)",90.79893333333334
+3_AFP,"relative time (0.25)","1→1 5→4 \_→8","fixed fraction (0.3)",81.17646666666667
+3_AFP,"relative time (0.25)","1→1 5→4 \_→8","fixed fraction (0.5)",82.362
+3_AFP,"relative time (0.25)","1→1 5→4 \_→8","host speed (0.5)",79.4628
+3_AFP,"relative time (0.25)","1→1 5→4 \_→8","host speed (0.7)",79.4628
+3_AFP,"relative time (0.25)","1→1 5→4 \_→8","host speed (0.9)",79.4628
+3_AFP,"relative time (0.25)","1→1 5→2 10→4 \_→8","per critical node",92.6147
+3_AFP,"relative time (0.25)","1→1 5→2 10→4 \_→8","fixed fraction (0.1)",95.38821666666666
+3_AFP,"relative time (0.25)","1→1 5→2 10→4 \_→8","fixed fraction (0.3)",75.2758
+3_AFP,"relative time (0.25)","1→1 5→2 10→4 \_→8","fixed fraction (0.5)",92.03435
+3_AFP,"relative time (0.25)","1→1 5→2 10→4 \_→8","host speed (0.5)",93.04708333333333
+3_AFP,"relative time (0.25)","1→1 5→2 10→4 \_→8","host speed (0.7)",93.04708333333333
+3_AFP,"relative time (0.25)","1→1 5→2 10→4 \_→8","host speed (0.9)",93.04708333333333
+3_AFP,"relative time (0.25)","2→1 \_→8","per critical node",104.77488333333334
+3_AFP,"relative time (0.25)","2→1 \_→8","fixed fraction (0.1)",101.31373333333333
+3_AFP,"relative time (0.25)","2→1 \_→8","fixed fraction (0.3)",90.00841666666666
+3_AFP,"relative time (0.25)","2→1 \_→8","fixed fraction (0.5)",94.92486666666667
+3_AFP,"relative time (0.25)","2→1 \_→8","host speed (0.5)",94.93555
+3_AFP,"relative time (0.25)","2→1 \_→8","host speed (0.7)",94.93555
+3_AFP,"relative time (0.25)","2→1 \_→8","host speed (0.9)",94.93555
+3_AFP,"relative time (0.25)","2→1 10→4 \_→8","per critical node",111.45768333333334
+3_AFP,"relative time (0.25)","2→1 10→4 \_→8","fixed fraction (0.1)",146.31033333333335
+3_AFP,"relative time (0.25)","2→1 10→4 \_→8","fixed fraction (0.3)",84.7129
+3_AFP,"relative time (0.25)","2→1 10→4 \_→8","fixed fraction (0.5)",86.89056666666667
+3_AFP,"relative time (0.25)","2→1 10→4 \_→8","host speed (0.5)",86.66485
+3_AFP,"relative time (0.25)","2→1 10→4 \_→8","host speed (0.7)",86.66485
+3_AFP,"relative time (0.25)","2→1 10→4 \_→8","host speed (0.9)",86.66485
+3_AFP,"relative time (0.25)","2→1 10→2 20→4 \_→8","per critical node",91.0321
+3_AFP,"relative time (0.25)","2→1 10→2 20→4 \_→8","fixed fraction (0.1)",96.77685
+3_AFP,"relative time (0.25)","2→1 10→2 20→4 \_→8","fixed fraction (0.3)",92.35078333333334
+3_AFP,"relative time (0.25)","2→1 10→2 20→4 \_→8","fixed fraction (0.5)",100.29353333333333
+3_AFP,"relative time (0.25)","2→1 10→2 20→4 \_→8","host speed (0.5)",107.86423333333333
+3_AFP,"relative time (0.25)","2→1 10→2 20→4 \_→8","host speed (0.7)",107.86423333333333
+3_AFP,"relative time (0.25)","2→1 10→2 20→4 \_→8","host speed (0.9)",107.86423333333333
