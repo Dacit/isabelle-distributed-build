@@ -9,7 +9,7 @@ This is a repository containing source code and data for the paper:
     title = {{Distributed Parallel Build for the Isabelle Archive of Formal Proofs}},
     publisher = {{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}},
     series = {{LIPIcs}},
-    doi = {10.4230/LIPIcs.ITP.2024.29},
+    doi = {10.4230/LIPIcs.ITP.2024.22},
     year = {2024}
 }
 ```
